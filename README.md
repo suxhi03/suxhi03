@@ -10,7 +10,7 @@ a curiosity-driven mindset, I'm always on the lookout for new challenges and lea
 - 🌱 I’m currently learning: The intricacies of Odoo's framework and best practices for its implementation
 - 👯 I’m looking to collaborate on: Open source projects that help me expand my knowledge and capabilities
 - 💬 Ask me about: C/C++, Python, Web Development, CRM
-- 📫 How to reach me: dsuchi12@gmail.com
+- 📫 How to reach me: desaisuchi.03@gmail.com
 - ⚡ Fun fact: I'm a passionate table tennis player and have competed in several tournaments
 
 <!---
